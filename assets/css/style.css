@@ -1,0 +1,73 @@
+body{
+	font-family: 'Cabin', sans-serif;
+	font-family: 'Open Sans', sans-serif;
+	color: #373A3C;
+}
+
+h2{
+	font-family: 'Oswald', sans-serif;
+	font-weight: 200;
+	font-size: 72px;
+}
+
+h3{
+	font-family: 'Oswald', sans-serif;
+	font-weight: 700;
+	font-size: 72px;
+}
+
+h4{
+	font-family: 'Open Sans', sans-serif;
+	font-weight: 600;
+	font-size: 25px;
+	line-height: 50px;
+	color: #373A3C;
+}
+
+h5{
+	font-family: 'Oswald', sans-serif;
+	font-weight: 700;
+	font-size: 52px;
+}
+
+p{
+	font-family: 'Open Sans', sans-serif;
+	font-weight: 400;
+	font-size: 16px;
+	line-height: 40px;
+}
+
+footer i {
+	color: white;
+}
+
+.nav-color{
+	background-color: #660066;
+	color: white;
+}
+
+.border-divider{
+	display: inline-block;
+    width: 23rem;
+ }
+
+.border-title{
+	display: inline-block;
+    width: 6rem;
+    border: solid 1px;
+ }
+
+ .py-6{
+ 	padding-top: 20rem;
+ 	padding-bottom: 5rem;
+ }
+
+ .back-form{
+ 	background-color: #212121;
+ }
+
+ .title-modal{
+	font-family: 'Open Sans', sans-serif;
+	font-size: 20px;
+	font-weight: bold;
+ }
